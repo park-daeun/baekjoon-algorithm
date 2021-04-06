@@ -1,45 +1,49 @@
 ## Baekjoon-Algorithm
 
+
+-------------------------------------
 👩‍💻 Date: 09/09/2020 ~
 
 ⌨️ Language: Python, Java
 
 🆔 Baekjoon ID: da2uns2
 
+-------------------------------------
+
 문제번호|제목|언어
 ----|----|----|
-1000|A+B|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.java)
-1001|A-B|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.java)
-1008|A/B|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.java)
-1065|한수|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.java)
-1110|더하기 사이클|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1110.py)
-1152|단어의 개수|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1152.py)
-1157|단어 공부|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1157.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1157.java)
-1193|분수 찾기|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1193.py)
-1316|그룹 단어 체커|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1316.py)
-1330|두 수 비교하기|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.java)
-1546|평균|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.py), [Java](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.java)
-1712|손익분기점|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1712.py)
-2292|벌집|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2292.py)
-2438|별 찍기 - 1|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2438.py)
-2439|별 찍기 - 2|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2439.py)
-2446|별 찍기 - 9|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2446.py)
-2523|별 찍기 - 13|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2523.py)
-2557|Hello World|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2557.py)
-2562|최댓값|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2562.py)
-2577|숫자의 개수|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2577.py)
-2588|곱셈|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2588.py)
-2675|문자열 반복|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2675.py)
-2739|구구단|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2739.py)
-2741|N 찍기|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2741.py)
-2742|기찍 N|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2742.py)
-2753|윤년|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2753.py)
-2775|부녀회장이 될테야|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2775.py)
-2839|설탕 배달|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2839.py)
-2869|달팽이는 올라가고 싶다|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2869.py)
-2884|알람 시계|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2884.py)
-2908|상수|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2908.py)
-2941|크로아티아 알파벳|[Python](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2941.py)
+1000|A+B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.java)
+1001|A-B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.java)
+1008|A/B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.java)
+1065|한수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.java)
+1110|더하기 사이클|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1110.py)
+1152|단어의 개수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1152.py)
+1157|단어 공부|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1157.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1157.java)
+1193|분수 찾기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1193.py)
+1316|그룹 단어 체커|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1316.py)
+1330|두 수 비교하기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.java)
+1546|평균|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.java)
+1712|손익분기점|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1712.py)
+2292|벌집|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2292.py)
+2438|별 찍기 - 1|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2438.py)
+2439|별 찍기 - 2|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2439.py)
+2446|별 찍기 - 9|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2446.py)
+2523|별 찍기 - 13|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2523.py)
+2557|Hello World|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2557.py)
+2562|최댓값|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2562.py)
+2577|숫자의 개수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2577.py)
+2588|곱셈|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2588.py)
+2675|문자열 반복|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2675.py)
+2739|구구단|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2739.py)
+2741|N 찍기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2741.py)
+2742|기찍 N|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2742.py)
+2753|윤년|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2753.py)
+2775|부녀회장이 될테야|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2775.py)
+2839|설탕 배달|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2839.py)
+2869|달팽이는 올라가고 싶다|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2869.py)
+2884|알람 시계|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2884.py)
+2908|상수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2908.py)
+2941|크로아티아 알파벳|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2941.py)
 3052|나머지|
 4344|평균은 넘겠지|
 4673|셀프 넘버|
