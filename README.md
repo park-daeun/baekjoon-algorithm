@@ -1,9 +1,10 @@
 ## Baekjoon-Algorithm
 
-👩‍💻 09/09/2020 ~
+👩‍💻 Date: 09/09/2020 ~
 
-⌨️ Python, Java
+⌨️ Language: Python, Java
 
+🆔 Baekjoon ID: da2uns2
 
 문제번호|제목|언어
 ----|----|----|
