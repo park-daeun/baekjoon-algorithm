@@ -4,13 +4,13 @@
 -------------------------------------
 👩‍💻 Date: 09/09/2020 ~
 
-⌨️ Language: Python, Java
+⌨️ Languages: Python, Java
 
 🆔 Baekjoon ID: da2uns2
 
 -------------------------------------
 
-문제번호|제목|언어
+문제번호|제목|언어(클릭 시 링크 이동)
 ----|----|----|
 1000|A+B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.java)
 1001|A-B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.java)
