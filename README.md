@@ -2,7 +2,7 @@
 
 
 -------------------------------------
-👩‍💻 Date: 09/09/2020 ~
+👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/10/2021)
 
 ⌨️ Languages: Python, Java
 
@@ -15,6 +15,7 @@
 1000|A+B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1000.java)
 1001|A-B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1001.java)
 1008|A/B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1008.java)
+1011|Fly me to the Alpha Centauri|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1011.py)
 1065|한수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1065.java)
 1110|더하기 사이클|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1110.py)
 1152|단어의 개수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1152.py)
