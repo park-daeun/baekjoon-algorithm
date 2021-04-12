@@ -2,7 +2,7 @@
 
 
 -------------------------------------
-👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/10/2021)
+👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/11/2021)
 
 ⌨️ Languages: Python, Java
 
@@ -59,6 +59,7 @@
 10250|ACM 호텔|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10250.py)
 10430|나머지|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10430.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10430.java)
 10718|We love kriii|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10718.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10718.java)
+10757|큰 수 A+B|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10757.py)
 10809|알파벳 찾기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10809.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10809.java)
 10817|세 수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10817.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10817.java)
 10818|최소, 최대|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10818.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/10000~10999/Q10818.java)
