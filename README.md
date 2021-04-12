@@ -2,7 +2,7 @@
 
 
 -------------------------------------
-👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/11/2021)
+👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/12/2021)
 
 ⌨️ Languages: Python, Java
 
@@ -25,6 +25,7 @@
 1330|두 수 비교하기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1330.java)
 1546|평균|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1546.java)
 1712|손익분기점|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1712.py)
+1978|소수 찾기|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/1000~1999/Q1978.py)
 2292|벌집|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2292.py)
 2438|별 찍기 - 1|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2438.py)
 2439|별 찍기 - 2|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2439.py)
