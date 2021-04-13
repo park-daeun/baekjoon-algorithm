@@ -1,8 +1,8 @@
-m = int(input())
 n = int(input())
-prime = []
+testCase = list(map(int, input().split()))
+numOfPrime = 0
 
-for i in range(m, n+1):
+for i in testCase:
     checkNum = 0
 
     if i == 1:
@@ -10,12 +10,8 @@ for i in range(m, n+1):
 
     for j in range(2, i):
         if i % j == 0:
-            checkNum += 1
-            break
+            checkNum = checkNum + 1
     if checkNum == 0:
-        prime.append(i)
+        numOfPrime = numOfPrime + 1
 
-if sum(prime) == 0:
-    print('-1')
-else:
-    print(sum(prime), min(prime), sep='\n')
+print(numOfPrime)
