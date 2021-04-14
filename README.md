@@ -2,7 +2,7 @@
 
 
 -------------------------------------
-👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/12/2021)
+👩‍💻 Date: 09/09/2020 ~ (Last Update Date: 04/14/2021)
 
 ⌨️ Languages: Python, Java
 
@@ -34,6 +34,7 @@
 2557|Hello World|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2557.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2557.java)
 2562|최댓값|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2562.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2562.java)
 2577|숫자의 개수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2577.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2577.java)
+2581|소수|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2581.py)
 2588|곱셈|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2588.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2588.java)
 2675|문자열 반복|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2675.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2675.java)
 2739|구구단|[<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2739.py) [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>](https://github.com/park-daeun/Baekjoon-Algorithm/blob/master/2000~2999/Q2739.java)
