@@ -7,6 +7,9 @@
 ⌨️ Languages: Python, Java
 
 🆔 Baekjoon ID: da2uns2
+<br>
+
+[![https://solved.ac/profile/da2uns2](http://mazassumnida.wtf/api/v2/generate_badge?boj=da2uns2)](https://solved.ac/da2uns2)
 
 -------------------------------------
 
