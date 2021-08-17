@@ -8,7 +8,7 @@ def binary_search(arr, target, start, end):
         cnt = 0
         for a in arr:
             cnt += a // mid
-        print(mid, cnt)
+        #print(mid, cnt)
         
         if cnt >= target:
             ans = max(mid, ans)
