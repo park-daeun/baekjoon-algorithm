@@ -30,18 +30,3 @@ for i in range(m):
 
 visited = [False] * (n+1)
 print(bfs(graph, 1, visited))
-
-'''
-입력 예시
-7
-6
-1 2
-2 3
-1 5
-5 2
-5 6
-4 7
-
-출력 예시
-4
-'''
