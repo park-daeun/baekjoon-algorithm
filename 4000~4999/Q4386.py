@@ -33,7 +33,6 @@ for i in range(1, n+1):
             edges.append((cost, i, j))
 
 edges.sort()
-print(edges)
 
 res = 0
 for edge in edges:
